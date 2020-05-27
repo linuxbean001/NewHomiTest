@@ -1,0 +1,10 @@
+{
+  "webpackServerPort": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 8052,
+  "expoServerNgrokUrl": "https://iv-i2v.anonymous.homi.exp.direct",
+  "packagerNgrokUrl": "https://packager.iv-i2v.anonymous.homi.exp.direct",
+  "ngrokPid": 4504,
+  "devToolsPort": 19002
+}
